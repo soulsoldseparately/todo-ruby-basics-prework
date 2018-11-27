@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  var name = value
+  name = value
 end
 
 def argue(val)
