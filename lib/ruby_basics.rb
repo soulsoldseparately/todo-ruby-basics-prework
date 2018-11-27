@@ -6,8 +6,8 @@ def assign_variable(value)
   var name = value
 end
 
-def argue
-  
+def argue(val)
+  val
 end
 
 def greeting
